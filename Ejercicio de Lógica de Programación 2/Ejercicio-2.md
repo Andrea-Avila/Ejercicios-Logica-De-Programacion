@@ -11,6 +11,7 @@
 
 - Output
   - Imprimir por consola o DOM la temperatura ingresada convertida de grados Celsius a grados Farenheit.
+
   - Imprimir por consola o DOM la temperatura ingresada convertida de grados Celsius a grados Kelvin.
 
 --- 
@@ -29,7 +30,10 @@ Grados Kelvin: 318.15
 
 
 - Identificar si los números ingresados son de tipo `number`, en caso contrario debe mostrarse un mensaje de error y volver a solicitar los datos.
+
 - Si no conoces las fórmulas para las conversiones, puedes apoyarte de `Google`.
+
 - Recuerda convertir a number el valor solicitado por prompt y verificar que sea un número para evitar errores en tu programa.
+
 - Recuerda que para mostrar mensajes por consola o por el DOM, debes crear un archivo `HTML` y enlazar tu script.
 
